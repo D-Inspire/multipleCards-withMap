@@ -1,0 +1,29 @@
+[
+    {"id": 1,
+        "mainImg": "car_one.jpg",
+        "tittle": "TECHNOLOGY",
+        "subheading": ">Why is the tesla Cybertruck <br/> designed the way it is?",
+        "description": "An explanation into the truck's polarising <br/> design",
+        "miniImg": "person_1.webp",
+        "mininHeading": "Mike Lwis",
+        "time": "today"
+    },
+    {"id": 2,
+        "mainImg": "moon_lantern_1.avif",
+        "tittle": "POPULAR",
+        "subheading": "How to Keep Going When You Don't <br/> Know What's Next",
+        "description": "The future can be scary, but there are ways <br/> to deal with that fear",
+        "miniImg": "Nathanel-Englander.jpg",
+        "mininHeading": "Nathanel Englander",
+        "time": "yesterday"
+    },
+    {"id": 3,
+        "mainImg": "building_1.webp",
+        "tittle": "DESIGN",
+        "subheading": "10 Rules of Dashboard Design",
+        "description": "Dashboard Design Outlines",
+        "miniImg": "Munro-Alice.jpg",
+        "mininHeading": "Munro Alice",
+        "time": "2h ago"
+    }
+]
